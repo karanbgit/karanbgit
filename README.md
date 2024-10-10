@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **karanbarale7047@gmail.com**, <b>www.linkedin.com/in/karan-barale</b>
 
-**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
