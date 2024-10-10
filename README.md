@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **ReactJS, Redux, HTML, CSS, Javascript, Bootstrap, Core Java, Python, CodeIgniter, MySQL, PHPMyAdmin**
 
-- 📫 How to reach me **karanbarale7047@gmail.com**,**www.linkedin.com/in/karan-barale
+- 📫 How to reach me **karanbarale7047@gmail.com**, <b>www.linkedin.com/in/karan-barale</b>
 
 **
 
