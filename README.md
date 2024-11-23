@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Karan Barale</h1>
 <h3 align="center">A Dynamic Frontend Developer</h3>
 
-- 🔭 I’m currently working on **United We Stand**
+- 🔭 I’m currently working on **E-Commerce Website (Fragnance)**
 
 - 🌱 I’m currently learning **Core Java, React**
 
