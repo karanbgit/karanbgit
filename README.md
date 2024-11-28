@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Core Java, React**
 
-- 💬 Ask me about **ReactJS, Redux, HTML, CSS, Javascript, Bootstrap, Core Java, Python, CodeIgniter, MySQL, PHPMyAdmin**
+- 💬 Ask me about **ReactJS, Redux, HTML, CSS, Javascript, Bootstrap, Core Java, Python, CodeIgniter, API ,MySQL, PHPMyAdmin**
 
-- 📫 How to reach me **karanbarale7047@gmail.com**, <b>www.linkedin.com/in/karan-barale</b>
+- 📫 How to reach me **karanbarale7047@gmail.com**, **www.linkedin.com/in/karan-barale**
 
 
 <h3 align="left">Connect with me:</h3>
