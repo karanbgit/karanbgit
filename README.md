@@ -1,11 +1,11 @@
 <img src="https://imgs.search.brave.com/CZdmK_7BX9T1R2HZ-93SjBtkTQZNOWQa3DkfuZUI0SM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9wcm9ncmFtbWVy/LWNvZGVyLXByb2dy/YW1taW5nLWNvbXB1/dGVyLXRleHQtY29k/ZS1wcm9ncmFtLXBv/cnRyYWl0LW1hbi13/b3JraW5nXzExOTc3/OTctMjE0NTE1Lmpw/Zz9zaXplPTYyNiZl/eHQ9anBn" style="width:100%;">
 
 <h1 align="center">Hi 👋, I'm Karan Barale</h1>
-<h3 align="center">A Dynamic Frontend Developer</h3>
+<h3 align="center">A Dynamic Full-Stack Developer</h3>
 
-- 🔭 I’m currently working on **E-Commerce Website (Fragnance)**
+- 🔭 I’m currently working on **React Projects**
 
-- 🌱 I’m currently learning **Core Java, React**
+- 🌱 I’m currently learning **React.JS , Core Java**
 
 - 💬 Ask me about **ReactJS, Redux, HTML, CSS, Javascript, Bootstrap, Core Java, Python, CodeIgniter, API ,MySQL, PHPMyAdmin**
 
