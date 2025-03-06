@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Karan Barale</h1>
 <h3 align="center">A Dynamic Full-Stack Developer</h3>
 
-- 🔭 I’m currently working on **React Projects**
+- 🔭 I’m currently working on **Core Java Projects**
 
-- 🌱 I’m currently learning **React.JS , Core Java**
+- 🌱 I’m currently learning **Core Java, React.JS**
 
 - 💬 Ask me about **ReactJS, Redux, HTML, CSS, Javascript, Bootstrap, Core Java, Python, CodeIgniter, API ,MySQL, PHPMyAdmin**
 
