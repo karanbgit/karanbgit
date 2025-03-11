@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Karan Barale</h1>
 <h3 align="center">A Dynamic Full-Stack Developer</h3>
 
-- 🔭 I’m currently working on **Core Java Projects**
+- 🔭 I’m currently working in **Flynaut Saas Pvt. Ltd.**
 
 - 🌱 I’m currently learning **Core Java, React.JS**
 
