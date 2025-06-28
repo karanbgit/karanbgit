@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working in **Flynaut Saas Pvt. Ltd.**
 
-- 🌱 I’m currently learning **Core Java, React.JS**
+- 🌱 I’m currently learning **Java, Spring Boot, React.JS**
 
 - 💬 Ask me about **ReactJS, Redux, HTML, CSS, Javascript, Bootstrap, Core Java, Python, CodeIgniter, API ,MySQL, PHPMyAdmin**
 
