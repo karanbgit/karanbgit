@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working in **Baranwal Consultancy and Services.**
 
-- 🌱 I’m currently learning **Java, Spring Boot, React.JS**
+- 🌱 I’m currently learning **React.js, Node.js**
 
 - 💬 Ask me about **ReactJS, Redux, HTML, CSS, Javascript, Bootstrap, Core Java, Python, CodeIgniter, API ,MySQL, PHPMyAdmin**
 
